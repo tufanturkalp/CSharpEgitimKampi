@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dtufa\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Youtube\\CSharpEgitimKampi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dtufa\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Youtube\\CSharpEgitimKampi\\03_MakingDecision\\03_MakingDecision.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:03_MakingDecision\\03_MakingDecision.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dtufa\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Youtube\\CSharpEgitimKampi\\03_MakingDecision\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:03_MakingDecision\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D2FBBC-2EC2-4C13-9571-87F9D15B76C2}|08_Methods\\08_Methods.csproj|C:\\Users\\dtufa\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Youtube\\CSharpEgitimKampi\\08_Methods\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D2FBBC-2EC2-4C13-9571-87F9D15B76C2}|08_Methods\\08_Methods.csproj|solutionrelative:08_Methods\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460B685F-CE6D-457D-B934-1277E19919EC}|07_ForeachLoop\\07_ForeachLoop.csproj|C:\\Users\\dtufa\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Youtube\\CSharpEgitimKampi\\07_ForeachLoop\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460B685F-CE6D-457D-B934-1277E19919EC}|07_ForeachLoop\\07_ForeachLoop.csproj|solutionrelative:07_ForeachLoop\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dtufa\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Youtube\\CSharpEgitimKampi\\03_MakingDecision\\Program.cs",
+              "RelativeDocumentMoniker": "03_MakingDecision\\Program.cs",
+              "ToolTip": "C:\\Users\\dtufa\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Youtube\\CSharpEgitimKampi\\03_MakingDecision\\Program.cs",
+              "RelativeToolTip": "03_MakingDecision\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:27:51.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "03_MakingDecision.csproj",
+              "DocumentMoniker": "C:\\Users\\dtufa\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Youtube\\CSharpEgitimKampi\\03_MakingDecision\\03_MakingDecision.csproj",
+              "RelativeDocumentMoniker": "03_MakingDecision\\03_MakingDecision.csproj",
+              "ToolTip": "C:\\Users\\dtufa\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Youtube\\CSharpEgitimKampi\\03_MakingDecision\\03_MakingDecision.csproj",
+              "RelativeToolTip": "03_MakingDecision\\03_MakingDecision.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-20T14:27:50.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dtufa\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Youtube\\CSharpEgitimKampi\\08_Methods\\Program.cs",
+              "RelativeDocumentMoniker": "08_Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\dtufa\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Youtube\\CSharpEgitimKampi\\08_Methods\\Program.cs",
+              "RelativeToolTip": "08_Methods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T18:05:24.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dtufa\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Youtube\\CSharpEgitimKampi\\07_ForeachLoop\\Program.cs",
+              "RelativeDocumentMoniker": "07_ForeachLoop\\Program.cs",
+              "ToolTip": "C:\\Users\\dtufa\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Youtube\\CSharpEgitimKampi\\07_ForeachLoop\\Program.cs",
+              "RelativeToolTip": "07_ForeachLoop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:43:09.837Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

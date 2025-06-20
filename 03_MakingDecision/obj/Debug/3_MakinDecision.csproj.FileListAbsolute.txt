@@ -1,0 +1,8 @@
+C:\Users\dtufa\OneDrive\Masaüstü\Yazılım Youtube\CSharpEgitimKampi\3_MakinDecision\bin\Debug\3_MakinDecision.exe.config
+C:\Users\dtufa\OneDrive\Masaüstü\Yazılım Youtube\CSharpEgitimKampi\3_MakinDecision\bin\Debug\3_MakinDecision.exe
+C:\Users\dtufa\OneDrive\Masaüstü\Yazılım Youtube\CSharpEgitimKampi\3_MakinDecision\bin\Debug\3_MakinDecision.pdb
+C:\Users\dtufa\OneDrive\Masaüstü\Yazılım Youtube\CSharpEgitimKampi\3_MakinDecision\obj\Debug\3_MakinDecision.csproj.AssemblyReference.cache
+C:\Users\dtufa\OneDrive\Masaüstü\Yazılım Youtube\CSharpEgitimKampi\3_MakinDecision\obj\Debug\3_MakinDecision.csproj.CoreCompileInputs.cache
+C:\Users\dtufa\OneDrive\Masaüstü\Yazılım Youtube\CSharpEgitimKampi\3_MakinDecision\obj\Debug\3_MakinDecision.exe
+C:\Users\dtufa\OneDrive\Masaüstü\Yazılım Youtube\CSharpEgitimKampi\3_MakinDecision\obj\Debug\3_MakinDecision.pdb
+C:\Users\dtufa\OneDrive\Masaüstü\Yazılım Youtube\CSharpEgitimKampi\3_MakinDecision\obj\Debug\3_MakinDecision.exe.config

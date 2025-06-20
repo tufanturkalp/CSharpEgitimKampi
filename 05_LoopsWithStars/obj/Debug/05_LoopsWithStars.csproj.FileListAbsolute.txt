@@ -1,0 +1,8 @@
+C:\Users\dtufa\OneDrive\Masaüstü\Yazılım Youtube\CSharpEgitimKampi\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe.config
+C:\Users\dtufa\OneDrive\Masaüstü\Yazılım Youtube\CSharpEgitimKampi\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe
+C:\Users\dtufa\OneDrive\Masaüstü\Yazılım Youtube\CSharpEgitimKampi\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.pdb
+C:\Users\dtufa\OneDrive\Masaüstü\Yazılım Youtube\CSharpEgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.AssemblyReference.cache
+C:\Users\dtufa\OneDrive\Masaüstü\Yazılım Youtube\CSharpEgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.CoreCompileInputs.cache
+C:\Users\dtufa\OneDrive\Masaüstü\Yazılım Youtube\CSharpEgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.exe
+C:\Users\dtufa\OneDrive\Masaüstü\Yazılım Youtube\CSharpEgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.pdb
+C:\Users\dtufa\OneDrive\Masaüstü\Yazılım Youtube\CSharpEgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.exe.config
